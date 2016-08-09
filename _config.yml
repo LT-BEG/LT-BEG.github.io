@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: xd-note
-email: xdsnakex@gmail.com 
+title: lt-note
+email: 3924712@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   My note, record some useful knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://pi.xd09.ml" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  xuedong09
+github_username:  lt-beg
 
 # Build settings
 markdown: kramdown
