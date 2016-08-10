@@ -16,6 +16,7 @@ url: "" # the base hostname & protocol for your site
 github_username:  lt-beg
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
+markdown:markdown
 
 excerpt_separator: ""   # Workaround for http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed
